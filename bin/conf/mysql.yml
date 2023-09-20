@@ -1,0 +1,6 @@
+mysql:
+  host: "127.0.0.1"
+  user: "cty"
+  password: "ctyking"
+  dbname: "game_project"
+  port: "3306"
